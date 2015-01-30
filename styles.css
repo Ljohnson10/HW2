@@ -1,6 +1,9 @@
+p{
+ text-indent: 40px;
+ }
 body {
   font-family:Helvetica,Arial,sans-serif;
-  background-color:#D7CDA8;
+  background-color:White;
   color:#585858;
   }
 #Info{
@@ -34,4 +37,34 @@ margin-top:0;
    font-size:100%;
    text-decoration:underline;
    font-weight:normal;
+   }
+   #Resume{
+   width:70%;
+   margin-left:auto;
+   margin-right:auto;
+   background-color:#D7CDA8;
+   padding:20px;
+   border-bottom-color:#585858;
+   border-style:solid;
+   border-width:2px;
+   }
+   #Index_Main{
+   width:80%;
+   margin-left:auto;
+   margin-right:auto;
+   background-color:#D7CDA8;
+   padding:20px;
+   border-bottom-color:#585858;
+   border-style:solid;
+   border-width:2px;
+   }
+   #Index_Header{
+   font-size:125%;
+   font-weight:bold;
+   margin-bottom:0px;
+   text-align:center;
+   margin-top:0px
+   }
+   .Date_Float{
+   float:Right;
    }
