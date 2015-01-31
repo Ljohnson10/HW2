@@ -4,14 +4,11 @@ p{
 body {
   font-family:Helvetica,Arial,sans-serif;
   background-color:White;
-  color:#585858;
   }
 #Info{
 text-align:center;
 margin-top:0;
-background-color:#585858;
 padding: 20px;
-color:#D7CDA8;
 }
 #Lucas_Header{
   font-size:200%;
@@ -42,24 +39,17 @@ color:#D7CDA8;
    font-weight:normal;
    }
    #Resume{
-   width:70%;
+   width:90%;
    margin-left:auto;
    margin-right:auto;
-   background-color:#D7CDA8;
    padding:20px;
-   border-bottom-color:#585858;
-   border-style:solid;
-   border-width:2px;
    }
    #Index_Main{
-   width:80%;
+   width:100%;
    margin-left:auto;
    margin-right:auto;
-   background-color:#D7CDA8;
    padding:20px;
-   border-bottom-color:#585858;
-   border-style:solid;
-   border-width:2px;
+   
    }
    #Index_Header{
    font-size:125%;
@@ -72,7 +62,8 @@ color:#D7CDA8;
    float:Right;
    }
    img {
-	border-style: solid;
-	border-width: 2px;
-	border-bottom-color:#585858;
+	display:none;
+	}
+	nav {
+	display: none;
 	}
